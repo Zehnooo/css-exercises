@@ -1,0 +1,15 @@
+.odd {
+    background-color: rgba(255, 0, 0, 0.25);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+#scnd {
+    color: rgba(0, 0, 255, 1);
+    font-size: 36px;
+}
+.size {
+    font-size: 24px;
+}
+#frth {
+    background-color: rgba(57, 255, 20, 0.45);
+    font-weight: bold;
+}
